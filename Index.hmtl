@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Collin Wang Resume</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    html, body, h1, h2, h3, h4, h5, h6 {font-family: "Roboto", sans-serif}
+    .section-title {font-weight: 700; letter-spacing: 0.3px;}
+    .profile-header {
+      background: linear-gradient(135deg, #009688, #00695c);
+      color: white;
+      padding: 28px 20px;
+    }
+    .profile-header h2, .profile-header p {margin: 0;}
+    .profile-header p {margin-top: 8px; opacity: 0.95;}
+    .tag {
+      display: inline-block;
+      background: #e0f2f1;
+      color: #00695c;
+      padding: 4px 10px;
+      border-radius: 999px;
+      margin: 4px 6px 0 0;
+      font-size: 13px;
+    }
+    ul.clean {
+      padding-left: 18px;
+      margin-top: 8px;
+    }
+    .contact p {margin: 10px 0;}
+  </style>
+</head>
+<body class="w3-light-grey">
+
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+  <div class="w3-row-padding">
+
+    <div class="w3-third">
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="profile-header">
+          <h2>Collin Wang</h2>
+          <p>Mechanical Engineering Student</p>
+        </div>
+
+        <div class="w3-container contact">
+          <p><i class="fa fa-map-marker fa-fw w3-margin-right w3-large w3-text-teal"></i>Long Beach, CA</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>714-345-0787</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>wcollin33@gmail.com</p>
+          <p><i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i>LinkedIn</p>
+          <hr>
+
+          <p class="w3-large section-title"><b><i class="fa fa-bullseye fa-fw w3-margin-right w3-text-teal"></i>Objective</b></p>
+          <p>Motivated mechanical engineering student seeking an internship to apply problem-solving, CAD design, and analytical skills in a real-world engineering environment.</p>
+          <hr>
+
+          <p class="w3-large section-title"><b><i class="fa fa-cogs fa-fw w3-margin-right w3-text-teal"></i>Technical Skills</b></p>
+          <div>
+            <span class="tag">SolidWorks</span>
+            <span class="tag">MATLAB</span>
+            <span class="tag">Python</span>
+            <span class="tag">Microsoft Excel</span>
+            <span class="tag">Data Analysis</span>
+            <span class="tag">Problem-Solving</span>
+            <span class="tag">Teamwork</span>
+            <span class="tag">Technical Communication</span>
+          </div>
+          <hr>
+
+          <p class="w3-large section-title"><b><i class="fa fa-users fa-fw w3-margin-right w3-text-teal"></i>Leadership & Activities</b></p>
+          <ul class="clean">
+            <li>American Society of Mechanical Engineers</li>
+            <li>Group project leadership experience in coursework</li>
+          </ul>
+          <br>
+        </div>
+      </div><br>
+    </div>
+
+    <div class="w3-twothird">
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>California State University Long Beach</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2025 - 2029</h6>
+          <p>Mechanical Engineering Major</p>
+          <p><b>Relevant Coursework:</b></p>
+          <ul class="clean">
+            <li>Physics 1 (Mechanics and Heat)</li>
+            <li>Calculus I, Calculus II</li>
+            <li>Engineering Design / Intro to Engineering</li>
+          </ul>
+          <hr>
+        </div>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Servite High School</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021 - 2025</h6>
+          <p>High School Diploma</p><br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-wrench fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Engineering Design Project</b></h5>
+          <ul class="clean">
+            <li>Designed and modeled a mechanical component using CAD software.</li>
+            <li>Collaborated with a team of 3-4 students to develop and test a functional prototype.</li>
+            <li>Improved design efficiency through iterative testing and analysis.</li>
+          </ul>
+          <hr>
+        </div>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Physics Lab Experiments</b></h5>
+          <ul class="clean">
+            <li>Conducted experiments involving motion, forces, and energy systems.</li>
+            <li>Analyzed data using Excel to achieve results within acceptable error margins.</li>
+            <li>Applied theoretical concepts to real-world engineering scenarios.</li>
+          </ul>
+          <br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-briefcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Part-Time / Student Work Experience</b></h5>
+          <ul class="clean">
+            <li>Demonstrated strong time management by balancing work and academic responsibilities.</li>
+            <li>Collaborated with team members to complete tasks efficiently.</li>
+            <li>Provided reliable and consistent performance in a fast-paced environment.</li>
+          </ul>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Resume website for Collin Wang</p>
+</footer>
+
+</body>
+</html>
